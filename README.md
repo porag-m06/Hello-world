@@ -31,7 +31,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello_World] <a name="about-project"></a>
+# 📖  <a name="about-project">Hello_World</a>
 
 > This is the first project in the Microvers full stack full time program. The goal of this project is to demonstrate the standard flow of project completion basic with git, GitHub and coding best practices. 
 
