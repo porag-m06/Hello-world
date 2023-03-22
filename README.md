@@ -33,19 +33,22 @@
 
 # 📖  <a name="about-project">Hello_World</a>
 
-> This is the first project in the Microvers full stack full time program. The goal of this project is to demonstrate the standard flow of project completion basic with git, GitHub and coding best practices. 
+**Hello_World** is is the first project in the Microvers full stack full time program. The goal of this project is to demonstrate the standard flow of project completion basic with git, GitHub and coding best practices. 
 
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> As it is just for demonstrating the best parctices the project only consists of HTML & CSS Templates.  
-
+### Tech Stack <a name="tech-stack"></a> 
 <details>
+  <summary>Web Technologies</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
-> N/A
+- **N/A**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
